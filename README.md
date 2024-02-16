@@ -5,7 +5,7 @@ allowing Shikola to concentrate on its core business of school management.
 
 ## Technical Details
 
-The HandyMate mobile application is developed using Java
+The ShikolaConnectSAGE mobile application is developed using Java
 
 ## Install the Java
 Before proceeding, make sure your computer has Java installed. Minimum version is Java 8. See Oracle website for documentation on Java installation
